@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Video Processing app(OGTube)<br>👯 I’m looking to collaborate on open source work in any fields<br>🌱 I’m currently learning TypeScript<br>
+🔭 Linkedin: https://www.linkedin.com/in/chisom-ogbuefi-774b1b252/ <br>
 
 
 ## 🌐 Socials:
